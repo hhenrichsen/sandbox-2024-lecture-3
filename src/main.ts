@@ -9,6 +9,7 @@ import '../fonts/fonts.css';
 // WebComponents
 import 'iconify-icon';
 import '@motion-canvas/player';
+import './timer';
 
 // Actual packages
 import Markdown from 'reveal.js/plugin/markdown/markdown.esm';
